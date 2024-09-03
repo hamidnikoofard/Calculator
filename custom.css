@@ -1,0 +1,36 @@
+.gray-button{
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    background-color: #595959;
+    width: 77px;
+    height: 77px;
+    border-radius: 20px;
+    font-size: 32px;
+    box-shadow: inset 0px -3px 6px rgb(228, 228, 228), inset 0px 3px 6px rgb(80, 80, 80);
+}
+
+.orange-buuton{
+    background-color: #FF9A03;
+    cursor: pointer;
+    color: #2C2C2C;
+    border: none;
+    width: 77px;
+    height: 77px;
+    border-radius: 20px;
+    font-size: 32px;
+    box-shadow: inset 0px -3px 6px rgb(228, 228, 228), inset 0px 3px 6px rgb(80, 80, 80); 
+    
+}
+
+.light-gray-button{
+    color: #2C2C2C;
+    cursor: pointer;
+    border: none;
+    background-color: #D9D9D9;
+    width: 77px;
+    height: 77px;
+    border-radius: 20px;
+    font-size: 32px;
+    box-shadow: inset 0px -3px 6px rgb(228, 228, 228), inset 0px 3px 6px rgb(80, 80, 80);
+}
